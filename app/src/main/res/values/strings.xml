@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Times Table App</string>
+    <string name="done">Done</string>
+    <string name="enter_the_limit_of_the_table">Enter the limit of the table</string>
+
+</resources>
